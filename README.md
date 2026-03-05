@@ -20,5 +20,5 @@ This project analyzes the relationship between the Japanese yen exchange rate an
 - However, it is not the sole factor affecting tourism demand.
 
 ## Visualization
-The following chart shows the trend of inbound visitor arrivals in Japan.
-![Visitor Arrivals by Year](Visitor_Arrivals_by_Year.png)
+Scatter plot showing the relationship between exchange rate and inbound visitor arrivals.
+![Exchange vs Visitors](exchange_vs_visitors.png)
