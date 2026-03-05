@@ -25,13 +25,17 @@ Scatter plot showing the relationship between the exchange rate (JPY/USD) and in
 The regression line indicates a positive relationship between a weaker yen and visitor arrivals.
 ![Exchange vs Visitors](exchange_vs_visitors.png)
 
-### Regression Analysis
+## Regression Analysis
 An OLS regression was conducted to examine the relationship between the exchange rate (JPY/USD) and inbound visitor arrivals.
 The results suggest a positive relationship between the exchange rate and inbound tourism demand. A weaker yen is associated with higher visitor arrivals.
 However, due to the small sample size and external shocks such as COVID-19, the results should be interpreted with caution.
 
+## Tourism Demand Structure
+Visitor Arrivals vs Tourism Consumption
+![Visitor vs Consumption](visitors_vs_consumption.png)
 
-### Result
-Regression results suggest that the exchange rate has a statistically significant positive relationship with inbound tourism.
-A 1 yen depreciation against the USD is associated with an increase of approximately 430,000 visitors.
-The model explains about 65% of the variation in visitor arrivals (R² = 0.653).
+## Conclusion
+The analysis suggests that exchange rates have a statistically significant relationship with inbound tourism demand in Japan.
+A weaker yen is associated with higher visitor arrivals.
+Furthermore, visitor arrivals show a strong relationship with tourism consumption, suggesting that increasing inbound tourism contributes to higher tourism revenue.
+However, exchange rates are not the sole driver of inbound tourism demand. Other factors such as visa policies, airline capacity, and global travel conditions may also play important roles.
