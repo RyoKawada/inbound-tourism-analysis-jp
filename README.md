@@ -23,3 +23,11 @@ This project analyzes the relationship between the Japanese yen exchange rate an
 Scatter plot showing the relationship between the exchange rate (JPY/USD) and inbound visitor arrivals in Japan.  
 The regression line indicates a positive relationship between a weaker yen and visitor arrivals.
 ![Exchange vs Visitors](exchange_vs_visitors.png)
+
+### Regression Analysis
+
+An OLS regression was conducted to examine the relationship between the exchange rate (JPY/USD) and inbound visitor arrivals.
+
+The results suggest a positive relationship between the exchange rate and inbound tourism demand. A weaker yen is associated with higher visitor arrivals.
+
+However, due to the small sample size and external shocks such as COVID-19, the results should be interpreted with caution.
