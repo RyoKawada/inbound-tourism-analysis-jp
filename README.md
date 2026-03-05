@@ -40,3 +40,6 @@ The analysis suggests that exchange rates have a statistically significant relat
 A weaker yen is associated with higher visitor arrivals.
 Furthermore, visitor arrivals show a strong relationship with tourism consumption, suggesting that increasing inbound tourism contributes to higher tourism revenue.
 However, exchange rates are not the sole driver of inbound tourism demand. Other factors such as visa policies, airline capacity, and global travel conditions may also play important roles.
+
+### Requirements
+pandas, matplotlib, seaborn, statsmodels
