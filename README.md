@@ -7,7 +7,7 @@ This project analyzes the relationship between the Japanese yen exchange rate an
 ## Data Sources
 - JNTO (Foreign Visitors to Japan, Tourism Consumption)
 - Bank of Japan (Exchange Rate)
-Note: Data for 2020–2022 were excluded because tourism consumption data were not available for those years due to the COVID-19 pandemic.
+##### Note: Data for 2020–2022 were excluded because tourism consumption data were not available for those years due to the COVID-19 pandemic.
 
 ## Methods
 - Data preprocessing with Python (pandas)
