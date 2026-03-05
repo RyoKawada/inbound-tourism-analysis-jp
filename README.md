@@ -26,9 +26,12 @@ The regression line indicates a positive relationship between a weaker yen and v
 ![Exchange vs Visitors](exchange_vs_visitors.png)
 
 ### Regression Analysis
-
 An OLS regression was conducted to examine the relationship between the exchange rate (JPY/USD) and inbound visitor arrivals.
-
 The results suggest a positive relationship between the exchange rate and inbound tourism demand. A weaker yen is associated with higher visitor arrivals.
-
 However, due to the small sample size and external shocks such as COVID-19, the results should be interpreted with caution.
+
+
+### Result
+Regression results suggest that the exchange rate has a statistically significant positive relationship with inbound tourism.
+A 1 yen depreciation against the USD is associated with an increase of approximately 430,000 visitors.
+The model explains about 65% of the variation in visitor arrivals (R² = 0.653).
