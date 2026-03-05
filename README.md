@@ -1,4 +1,4 @@
-# Analysis of Inbound Tourism: FX Impact on Consumption
+# Analysis of Inbound Tourism: The Impact of Exchange Rates on Visitor Arrivals and Spending in Japan
 ## Analyzed by: Passed the CPA Exam (Japan) | Tourism Data Analyst
 
 ## Overview
