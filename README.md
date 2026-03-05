@@ -21,4 +21,4 @@ This project analyzes the relationship between the Japanese yen exchange rate an
 - However, it is not the sole factor affecting tourism demand.
 
 ## Visualization
-![Visitor Arrivals by Year](Visitor Arrivals by Year.png)
+![Visitor Arrivals by Year](Visitor_Arrivals_by_Year.png)
